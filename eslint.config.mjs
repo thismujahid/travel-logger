@@ -10,7 +10,7 @@ export default withNuxt(
     stylistic: {
       indent: 4,
       semi: true,
-      quotes: "double"
+      quotes: 'double'
     }
   }, {
     rules: {
